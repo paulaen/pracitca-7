@@ -1,0 +1,15 @@
+ul.circle {
+    list-style-type: circle;
+}
+
+ol.1 {
+    list-style-type: decimal;
+}
+
+ol.I {
+    list-style-type: upper-roman;
+}
+
+ol.a {
+   list-style-type: lower-alpha;
+}
